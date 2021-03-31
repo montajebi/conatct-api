@@ -1,0 +1,2 @@
+// TODO: extend Error
+// isOperational
